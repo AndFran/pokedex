@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math/rand"
 	"os"
-	"pokedexcli_mine/internal/config"
-	"pokedexcli_mine/internal/pokeapi"
+	"pokedexcli/internal/config"
+	"pokedexcli/internal/pokeapi"
 )
 
 type MenuCommand struct {
