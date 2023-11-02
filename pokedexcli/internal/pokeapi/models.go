@@ -319,25 +319,3 @@ type PokemonDetailsResponse struct {
 	} `json:"types"`
 	Weight int `json:"weight"`
 }
-
-/*
-type PokemonStats struct {
-	Hp             int
-	Attack         int
-	Defense        int
-	SpecialAttack  int
-	SpecialDefense int
-	Speed          int
-}
-
-type PokemonType struct {
-}
-
-type Pokemon struct {
-	Name           string
-	BaseExperience string
-	Height         int
-	weight         int
-	PokemonStats   PokemonStats
-}
-*/
