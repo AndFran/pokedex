@@ -1,3 +1,3 @@
-module pokedexcli_mine
+module pokedexcli
 
 go 1.20
