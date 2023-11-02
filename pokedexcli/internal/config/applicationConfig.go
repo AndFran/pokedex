@@ -1,9 +1,9 @@
 package config
 
 import (
-	"pokedexcli_mine/internal/pokeapi"
-	"pokedexcli_mine/internal/pokecache"
-	"pokedexcli_mine/internal/pokedex"
+	"pokedexcli/internal/pokeapi"
+	"pokedexcli/internal/pokecache"
+	"pokedexcli/internal/pokedex"
 	"time"
 )
 
