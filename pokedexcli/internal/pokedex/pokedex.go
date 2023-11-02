@@ -1,7 +1,7 @@
 package pokedex
 
 import (
-	"pokedexcli_mine/internal/pokeapi"
+	"pokedexcli/internal/pokeapi"
 )
 
 type PokemonDb interface {
