@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"pokedexcli_mine/commands"
-	"pokedexcli_mine/internal/config"
+	"pokedexcli/commands"
+	"pokedexcli/internal/config"
 	"strings"
 )
 
