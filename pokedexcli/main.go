@@ -1,10 +1,10 @@
 package main
 
 import (
-	"pokedexcli_mine/internal/config"
-	"pokedexcli_mine/internal/pokeapi"
-	"pokedexcli_mine/internal/pokecache"
-	"pokedexcli_mine/internal/pokedex"
+	"pokedexcli/internal/config"
+	"pokedexcli/internal/pokeapi"
+	"pokedexcli/internal/pokecache"
+	"pokedexcli/internal/pokedex"
 )
 
 func main() {
