@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"pokedexcli_mine/internal/pokecache"
+	"pokedexcli/internal/pokecache"
 )
 
 type PokeClient struct {
